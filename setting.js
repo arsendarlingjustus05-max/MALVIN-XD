@@ -1,4 +1,4 @@
-//=====🏅 ᴍᴀʟᴠɪɴ  xᴅ🔥====
+//=====🏅LUCK-BOT-X🔥====
 
 module.exports = {
   BOT_NAME: 'ᴍᴀʟᴠɪɴ xᴅ', // ur bot name
