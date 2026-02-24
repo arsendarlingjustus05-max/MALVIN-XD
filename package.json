@@ -1,7 +1,7 @@
 {
-  "name": "malvin-xd",
+  "name": "LUCK-BOT.01",
   "version": "2.1.1",
-  "description": "WhatsApp Bot by Malvin King",
+  "description": "WhatsApp Bot by LUCK DIGITAL TECHNOLOGIE",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
